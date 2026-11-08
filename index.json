@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "sdcore-nssf-operator",
+  "versions": [
+    {
+      "commit": "589823f43566334e07c16938d0aa71a44e0cf574",
+      "tag": "",
+      "parsed_at": "2026-11-08T14:50:40.925022+00:00"
+    }
+  ]
+}
